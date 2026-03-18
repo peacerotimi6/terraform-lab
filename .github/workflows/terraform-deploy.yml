@@ -40,3 +40,4 @@ jobs:
 
       - name: Terraform Apply
         run: terraform apply -auto-approve
+###### STUDENTS ADD TERRAFORM PLAN AND APPLY STEPS
